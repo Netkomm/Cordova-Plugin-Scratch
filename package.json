@@ -1,0 +1,31 @@
+{
+    "name": "ScratchPlugin",
+    "version": "0.0.1",
+    "description": "An Android Cordova plugin that allows users to scratch and reveal and image ",
+    "cordova": {
+      "id": "cordova-plugin-scratch",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hitmacreed/scratchplugin.git"
+    },
+    "keywords": [
+      "plugin", 
+      "scratch"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ],
+    "author": "Kevin Dias <kevindiasdeda@hotmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hitmacreed/scratchplugin/issues"
+    },
+    "homepage": "https://github.com/hitmacreed/scratchplugin/"
+  }

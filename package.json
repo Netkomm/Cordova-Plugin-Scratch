@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/hitmacreed/scratchplugin.git"
+      "url": "git+https://github.com/hitmacreed/Cordova-Plugin-Scratch.git"
     },
     "keywords": [
       "plugin", 
@@ -25,7 +25,7 @@
     "author": "Kevin Dias <kevindiasdeda@hotmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/hitmacreed/scratchplugin/issues"
+      "url": "https://github.com/hitmacreed/Cordova-Plugin-Scratch.git/issues"
     },
-    "homepage": "https://github.com/hitmacreed/scratchplugin/"
+    "homepage": "https://github.com/hitmacreed/Cordova-Plugin-Scratch.git"
   }

@@ -5,11 +5,11 @@
 ## Installation
 
 ```sh
- cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
+ cordova plugin add https://github.com/hitmacreed/Cordova-Plugin-Scratch.git 
 ```
 
 ```sh
- ionic cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
+ ionic cordova plugin add https://github.com/hitmacreed/Cordova-Plugin-Scratch.git
 ```
 
 This requires cordova Platform Android 8.0+

@@ -6,8 +6,10 @@
 
 ```sh
  cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
+```
+
+```sh
  ionic cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
- https://github.com/hitmacreed/scratchplugin.git
 ```
 
 This requires cordova Platform Android 8.0+

@@ -5,6 +5,8 @@
 ## Installation
 
 ```sh
+ cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
+ ionic cordova plugin add https://github.com/hitmacreed/scratchplugin.git 
  https://github.com/hitmacreed/scratchplugin.git
 ```
 
@@ -22,7 +24,7 @@ In Android 9.0+ only accetps https Urls
 ```sh
  declare var ScratchPlugin: any;
 ```
- Sintaxe
+ Sintax
 ```sh
     ScratchPlugin.draw('My Toast Message', 'Scratch Card Image', 'Scratched Card Image', 'My Title Card', 'My Title Color Hex', 'My Background', function(mkay) {
       console.log(mkay);
@@ -31,7 +33,7 @@ In Android 9.0+ only accetps https Urls
     });
 ```
 
- Example of usage drawable
+ Example of usage with drawable
 ```sh
    ScratchPlugin.draw('You Won!', '@drawable/scratch_card', '@drawable/winner', 'Scratch to Win', '#ffffe6', '@drawable/background', function(mkay) {
       console.log(mkay);
@@ -40,7 +42,7 @@ In Android 9.0+ only accetps https Urls
     });
 ```
 
- Example of usage Url
+ Example of usage with Url
 ```sh
    ScratchPlugin.draw('You Won!', '@drawable/scratch_card', 'https://i.imgur.com/DvpvklR.png', 'Scratch to Win', '#ffffe6', '@drawable/background', function(mkay) {
       console.log(mkay);
@@ -54,5 +56,4 @@ In Android 9.0+ only accetps https Urls
 ```sh
 https://square.github.io/picasso/
 https://github.com/goibibo/ScratchCardView
-
 ```

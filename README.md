@@ -18,7 +18,7 @@ This requires cordova Platform Android 8.0+
 
 This Plugin acepts images from drawable folder and Url.
 In Android 9.0+ only accetps https Urls
-`Scratched Card Image can accetp drawable or Url`
+`"ONLY => Scratched Card Image" can accetp drawable or Url`
  
 ## Usage
 
